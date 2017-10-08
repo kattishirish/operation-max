@@ -18,4 +18,6 @@ You can perform all the exercises in order, or do only try some of them. Each ex
 | 5 | Deploying your bot to the cloud                                 | [Document](./exercise5-Deployment.md)              | [C#](./CSharp/exercise5-Deployment.md) - [Node](./Node/exercise5-Deployment.md)                         |
 | 6 | Determine the sentiments behind a user's message                | [Document](./exercise6-MoodDetection.md)           | [C#](./CSharp/exercise6-MoodDetection.md) - [Node](./Node/exercise6-MoodDetection.md)                   |
 | 7 | Hand off the conversation to a human agent                      | [Document](./exercise7-HandOffToHuman.md)          | [C#](./CSharp/exercise7-HandOffToHuman.md) - [Node](./Node/exercise7-HandOffToHuman.md)                 |
-| 8 | Send and Receive Events Through a Backchannel                   | [Document](./exercise8-BackChannel.md)             | [C#](./CSharp/exercise8-BackChannel.md) - [Node](./Node/exercise8-BackChannel.md)                                                            |
+| 8 | Send and Receive Events Through a Backchannel                   | [Document](./exercise8-BackChannel.md)             | [C#](./CSharp/exercise8-BackChannel.md) - [Node](./Node/exercise8-BackChannel.md) 
+
+
